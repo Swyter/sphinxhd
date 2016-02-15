@@ -12,7 +12,7 @@ Developed as a texture pack for the Dolphin emulator, targeting its European (PA
 **Dolphin forum thread**: https://forums.dolphin-emu.org/Thread-sphinx-and-the-cursed-mummy™-hd-texture-pack
 
 Screenshots / Comparison
----------
+------------------------
 ![Game and HUD](https://i.imgur.com/nxF6IWU.png)
 ([Before](https://i.imgur.com/sAr3E4a.png) / [After](https://i.imgur.com/nxF6IWU.png))
 
@@ -20,6 +20,12 @@ Screenshots / Comparison
 ![Book of Sphinx](https://i.imgur.com/Q1m2zsV.png)
 ([Before](https://i.imgur.com/rcy5Suk.png) / [After](https://i.imgur.com/Q1m2zsV.png))
 
+
+Useful AR codes
+---------------
+_Disable intro videos [swy]_
+
+    042A48CA 00000000
 
 Licensing
 ---------
