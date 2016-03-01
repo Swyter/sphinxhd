@@ -23,7 +23,11 @@ Screenshots / Comparison
 
 Useful AR codes
 ---------------
-_Disable intro videos [swy]_
+_Disable intro videos, NTSC/USA [swy]_
+
+    042A2ABA 00000000
+
+_Disable intro videos, PAL/EU [swy]_
 
     042A48CA 00000000
 
