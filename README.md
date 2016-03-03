@@ -5,7 +5,7 @@ An unofficial mod that updates and enhances the legibility of this underrated cl
 —published in 2003 for the _GameCube_, _PlayStation 2_ and _Xbox_ platforms— while respecting
 its venerable original artwork and stylistic choices.
 
-Developed as a texture pack for the Dolphin emulator, targeting its European (PAL) release.
+Developed as a texture pack for the Dolphin emulator, targeting its European (PAL) and USA (NTSC) releases.
 
 **Page of the _GameCube_ game**: https://wiki.dolphin-emu.org/index.php?title=GXPP78
 
